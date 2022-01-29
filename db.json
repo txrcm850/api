@@ -1,11 +1,11 @@
 {
-  "posts": [
+  "uid": [
     {
       "id": 1,
-      "title": "hello"
+      "a": "b"
     }
   ],
-  "profile": {
-    "name": "typicode"
+  "t": {
+    "z": "x"
   }
 }
