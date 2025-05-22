@@ -26,7 +26,31 @@
     },
     {
       "icon": "paypay",
-      "title": "『ペイペイ",
+      "title": "『ペイペイ』",
+      "term": "2025/XX/XX()～2026/XX/XX()",
+      "detail1": "■",
+      "detail2": "",
+      "detail3": ""
+    },
+    {
+      "icon": "au",
+      "title": "『auPay』",
+      "term": "2025/XX/XX()～2026/XX/XX()",
+      "detail1": "■",
+      "detail2": "",
+      "detail3": ""
+    },
+    {
+      "icon": "d",
+      "title": "『d払い』",
+      "term": "2025/XX/XX()～2026/XX/XX()",
+      "detail1": "■",
+      "detail2": "",
+      "detail3": ""
+    },
+    {
+      "icon": "rakuten",
+      "title": "『楽天Pay』",
       "term": "2025/XX/XX()～2026/XX/XX()",
       "detail1": "■",
       "detail2": "",
