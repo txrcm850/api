@@ -33,38 +33,6 @@
       "detail3": "▼チャージ上限10,000円(上限2,000円分付与)"
     },
     {
-      "icon": "au",
-      "title": "『auPay』",
-      "term": "2025/XX/XX(Ｎ)～2025/XX/XX(Ｎ)",
-      "detail1": "■",
-      "detail2": "",
-      "detail3": "▼"
-    },
-    {
-      "icon": "d",
-      "title": "『d払い』",
-      "term": "2025/XX/XX(Ｎ)～2025/XX/XX(Ｎ)",
-      "detail1": "■",
-      "detail2": "",
-      "detail3": "▼"
-    },
-    {
-      "icon": "rakuten",
-      "title": "『楽天Pay』",
-      "term": "2025/XX/XX(Ｎ)～2025/XX/XX(Ｎ)",
-      "detail1": "■",
-      "detail2": "",
-      "detail3": "▼"
-    },
-    {
-      "icon": "jcoin",
-      "title": "『Jcoin』",
-      "term": "2025/XX/XX(Ｎ)～2025/XX/XX(Ｎ)",
-      "detail1": "■",
-      "detail2": "",
-      "detail3": "▼"
-    },
-    {
       "icon": "sonota",
       "title": "『その他』",
       "term": "2025/XX/XX(Ｎ)～2025/XX/XX(Ｎ)",
